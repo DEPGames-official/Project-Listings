@@ -1,45 +1,45 @@
-# Project-Listings
-A monorepo of some of my projects for convenience showcasing my improvement from the past 5-6 years of coding since I started game programming from the age of 14
+# Monorepo: Showcase of My Projects
 
-Paths for my projects to skip through:
+This repository serves as a monorepo, consolidating a variety of my projects for convenient access and showcasing my growth as a programmer over the past 5–6 years. I started my journey in game programming at the age of 14, and these projects reflect my progress and learning.
 
-Original Floorball Game I Made:
-https://github.com/DEPGames-official/Project-Listings/tree/main/Floor-Ball-main/Floor-Ball-main
-Go Here for the scripts: https://github.com/DEPGames-official/Project-Listings/tree/main/Floor-Ball-main/Floor-Ball-main/FloorBall/Assets/Scripts
+## Project Highlights
 
-Multiplayer Game I Tried With Floorball:
-https://github.com/DEPGames-official/Project-Listings/tree/main/Floor-Ball-Multiplayer-main/Floor-Ball-Multiplayer-main
-Go Here for the scripts: https://github.com/DEPGames-official/Project-Listings/tree/main/Floor-Ball-Multiplayer-main/Floor-Ball-Multiplayer-main/Floor%20Ball%20Test/Assets/Scripts
+### Original Floorball Game
+- **Project Repository:** [Floorball Game](https://github.com/DEPGames-official/Project-Listings/tree/main/Floor-Ball-main/Floor-Ball-main)
+- **Scripts:** [View Scripts](https://github.com/DEPGames-official/Project-Listings/tree/main/Floor-Ball-main/Floor-Ball-main/FloorBall/Assets/Scripts)
 
-School Coding Projects: 
-https://github.com/DEPGames-official/Project-Listings/tree/main/Data-Logging-Temperatures-main/Data-Logging-Temperatures-main
+### Multiplayer Floorball Game
+- **Project Repository:** [Multiplayer Floorball](https://github.com/DEPGames-official/Project-Listings/tree/main/Floor-Ball-Multiplayer-main/Floor-Ball-Multiplayer-main)
+- **Scripts:** [View Scripts](https://github.com/DEPGames-official/Project-Listings/tree/main/Floor-Ball-Multiplayer-main/Floor-Ball-Multiplayer-main/Floor%20Ball%20Test/Assets/Scripts)
 
-Windows Form Projects:
-https://github.com/DEPGames-official/Project-Listings/tree/main/Digital-Clock-main/Digital-Clock-main
-https://github.com/DEPGames-official/Project-Listings/tree/main/Rock-Paper-Scissors-SHOOT-main/Rock-Paper-Scissors-SHOOT-main (Game)
+### School Coding Projects
+- **Project Repository:** [Temperature Data Logging](https://github.com/DEPGames-official/Project-Listings/tree/main/Data-Logging-Temperatures-main/Data-Logging-Temperatures-main)
 
-Game Development Competition Projects:
-https://github.com/DEPGames-official/Project-Listings/tree/main/Dungeon-Survival-Platformer-main/Dungeon-Survival-Platformer-main (Made in 3 days)
-Go Here for the scripts: https://github.com/DEPGames-official/Project-Listings/tree/main/Dungeon-Survival-Platformer-main/Dungeon-Survival-Platformer-main/Dungeon%20Survival%20Platformer%20Source/Assets/Scripts
+### Windows Form Projects
+- **Digital Clock:** [View Project](https://github.com/DEPGames-official/Project-Listings/tree/main/Digital-Clock-main/Digital-Clock-main)
+- **Rock, Paper, Scissors Game:** [View Project](https://github.com/DEPGames-official/Project-Listings/tree/main/Rock-Paper-Scissors-SHOOT-main/Rock-Paper-Scissors-SHOOT-main)
 
-Game With Random Enemy Spawns Inspired By "Vampire Survivors":
-https://github.com/DEPGames-official/Project-Listings/tree/main/Fight-For-Your-Life-main/Fight-For-Your-Life-main
-Go Here for the scripts: https://github.com/DEPGames-official/Project-Listings/tree/main/Fight-For-Your-Life-main/Fight-For-Your-Life-main/Fight%20For%20Your%20Life/Assets/Scripts
+### Vampire Survivors-Inspired Game
+- **Project Repository:** [Fight For Your Life](https://github.com/DEPGames-official/Project-Listings/tree/main/Fight-For-Your-Life-main/Fight-For-Your-Life-main)
+- **Scripts:** [View Scripts](https://github.com/DEPGames-official/Project-Listings/tree/main/Fight-For-Your-Life-main/Fight-For-Your-Life-main/Fight%20For%20Your%20Life/Assets/Scripts)
 
-Mostly Completed Mobile Voting App I Made With Flutter:
-https://github.com/DEPGames-official/Project-Listings/tree/main/RateNVote-dev/RateNVote-dev
-Go Here for the scripts: https://github.com/DEPGames-official/Project-Listings/tree/main/RateNVote-dev/RateNVote-dev/ratenvote/lib
+### Space Shooting Game (Inspired by Asteroids)
+- **Project Repository:** [Space Shooter](https://github.com/DEPGames-official/Project-Listings/tree/main/Space-Shooter-Go-Pew-Pew-main/Space-Shooter-Go-Pew-Pew-main)
+- **Scripts:** [View Scripts](https://github.com/DEPGames-official/Project-Listings/tree/main/Space-Shooter-Go-Pew-Pew-main/Space-Shooter-Go-Pew-Pew-main/Space%20Shooter/Assets)
 
-Reusing A Razer Hydra Controller With A Raspberry Pi:
-https://github.com/DEPGames-official/Project-Listings/tree/main/RazerHydraPi-main/RazerHydraPi-main
+### Game Development Competition Projects
+- **Dungeon Survival Platformer (Made in 3 days):** [View Project](https://github.com/DEPGames-official/Project-Listings/tree/main/Dungeon-Survival-Platformer-main/Dungeon-Survival-Platformer-main)
+  - **Scripts:** [View Scripts](https://github.com/DEPGames-official/Project-Listings/tree/main/Dungeon-Survival-Platformer-main/Dungeon-Survival-Platformer-main/Dungeon%20Survival%20Platformer%20Source/Assets/Scripts)
 
-Algorithm I Used To Remove The Background Of A Particular Colour From A Image:
-https://github.com/DEPGames-official/Project-Listings/tree/main/RemoveImageBackground-main/RemoveImageBackground-main
+### Mobile Voting App (Flutter)
+- **Project Repository:** [RateNVote](https://github.com/DEPGames-official/Project-Listings/tree/main/RateNVote-dev/RateNVote-dev)
+- **Scripts:** [View Scripts](https://github.com/DEPGames-official/Project-Listings/tree/main/RateNVote-dev/RateNVote-dev/ratenvote/lib)
 
-Space Shooting Game Similar To Asteroids, It's Incomplete But It Was Fun To Make:
-https://github.com/DEPGames-official/Project-Listings/tree/main/Space-Shooter-Go-Pew-Pew-main/Space-Shooter-Go-Pew-Pew-main
-Go Here for the scripts: https://github.com/DEPGames-official/Project-Listings/tree/main/Space-Shooter-Go-Pew-Pew-main/Space-Shooter-Go-Pew-Pew-main/Space%20Shooter/Assets
+### Image Background Removal Algorithm
+- **Project Repository:** [Background Removal](https://github.com/DEPGames-official/Project-Listings/tree/main/RemoveImageBackground-main/RemoveImageBackground-main)
 
-Attempt At Making An AI Movie Recomendation Engine With ML:
-https://github.com/DEPGames-official/Project-Listings/tree/main/movie-recommendation-engine-main/movie-recommendation-engine-main (partially works)
+### AI Movie Recommendation Engine (Machine Learning)
+- **Project Repository:** [Movie Recommendation Engine](https://github.com/DEPGames-official/Project-Listings/tree/main/movie-recommendation-engine-main/movie-recommendation-engine-main) *(Partially Functional)*
 
+### Reusing a Razer Hydra Controller with Raspberry Pi
+- **Project Repository:** [RazerHydraPi](https://github.com/DEPGames-official/Project-Listings/tree/main/RazerHydraPi-main/RazerHydraPi-main)
