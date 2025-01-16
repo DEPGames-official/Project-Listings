@@ -1,0 +1,16 @@
+D:\CodingProjects\AllCodingProjects\AllCodingProjects\Rock-Paper-Scissors-SHOOT\Rock-Paper-Scissors-SHOOT\Rock-Paper-Scissors-SHOOT\bin\Debug\netcoreapp3.1\Rock-Paper-Scissors-SHOOT.exe
+D:\CodingProjects\AllCodingProjects\AllCodingProjects\Rock-Paper-Scissors-SHOOT\Rock-Paper-Scissors-SHOOT\Rock-Paper-Scissors-SHOOT\bin\Debug\netcoreapp3.1\Rock-Paper-Scissors-SHOOT.deps.json
+D:\CodingProjects\AllCodingProjects\AllCodingProjects\Rock-Paper-Scissors-SHOOT\Rock-Paper-Scissors-SHOOT\Rock-Paper-Scissors-SHOOT\bin\Debug\netcoreapp3.1\Rock-Paper-Scissors-SHOOT.runtimeconfig.json
+D:\CodingProjects\AllCodingProjects\AllCodingProjects\Rock-Paper-Scissors-SHOOT\Rock-Paper-Scissors-SHOOT\Rock-Paper-Scissors-SHOOT\bin\Debug\netcoreapp3.1\Rock-Paper-Scissors-SHOOT.runtimeconfig.dev.json
+D:\CodingProjects\AllCodingProjects\AllCodingProjects\Rock-Paper-Scissors-SHOOT\Rock-Paper-Scissors-SHOOT\Rock-Paper-Scissors-SHOOT\bin\Debug\netcoreapp3.1\Rock-Paper-Scissors-SHOOT.dll
+D:\CodingProjects\AllCodingProjects\AllCodingProjects\Rock-Paper-Scissors-SHOOT\Rock-Paper-Scissors-SHOOT\Rock-Paper-Scissors-SHOOT\bin\Debug\netcoreapp3.1\Rock-Paper-Scissors-SHOOT.pdb
+D:\CodingProjects\AllCodingProjects\AllCodingProjects\Rock-Paper-Scissors-SHOOT\Rock-Paper-Scissors-SHOOT\Rock-Paper-Scissors-SHOOT\obj\Debug\netcoreapp3.1\Rock-Paper-Scissors-SHOOT.csproj.AssemblyReference.cache
+D:\CodingProjects\AllCodingProjects\AllCodingProjects\Rock-Paper-Scissors-SHOOT\Rock-Paper-Scissors-SHOOT\Rock-Paper-Scissors-SHOOT\obj\Debug\netcoreapp3.1\Rock_Paper_Scissors_SHOOT.Form1.resources
+D:\CodingProjects\AllCodingProjects\AllCodingProjects\Rock-Paper-Scissors-SHOOT\Rock-Paper-Scissors-SHOOT\Rock-Paper-Scissors-SHOOT\obj\Debug\netcoreapp3.1\Rock-Paper-Scissors-SHOOT.csproj.GenerateResource.cache
+D:\CodingProjects\AllCodingProjects\AllCodingProjects\Rock-Paper-Scissors-SHOOT\Rock-Paper-Scissors-SHOOT\Rock-Paper-Scissors-SHOOT\obj\Debug\netcoreapp3.1\Rock-Paper-Scissors-SHOOT.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodingProjects\AllCodingProjects\AllCodingProjects\Rock-Paper-Scissors-SHOOT\Rock-Paper-Scissors-SHOOT\Rock-Paper-Scissors-SHOOT\obj\Debug\netcoreapp3.1\Rock-Paper-Scissors-SHOOT.AssemblyInfoInputs.cache
+D:\CodingProjects\AllCodingProjects\AllCodingProjects\Rock-Paper-Scissors-SHOOT\Rock-Paper-Scissors-SHOOT\Rock-Paper-Scissors-SHOOT\obj\Debug\netcoreapp3.1\Rock-Paper-Scissors-SHOOT.AssemblyInfo.cs
+D:\CodingProjects\AllCodingProjects\AllCodingProjects\Rock-Paper-Scissors-SHOOT\Rock-Paper-Scissors-SHOOT\Rock-Paper-Scissors-SHOOT\obj\Debug\netcoreapp3.1\Rock-Paper-Scissors-SHOOT.csproj.CoreCompileInputs.cache
+D:\CodingProjects\AllCodingProjects\AllCodingProjects\Rock-Paper-Scissors-SHOOT\Rock-Paper-Scissors-SHOOT\Rock-Paper-Scissors-SHOOT\obj\Debug\netcoreapp3.1\Rock-Paper-Scissors-SHOOT.dll
+D:\CodingProjects\AllCodingProjects\AllCodingProjects\Rock-Paper-Scissors-SHOOT\Rock-Paper-Scissors-SHOOT\Rock-Paper-Scissors-SHOOT\obj\Debug\netcoreapp3.1\Rock-Paper-Scissors-SHOOT.pdb
+D:\CodingProjects\AllCodingProjects\AllCodingProjects\Rock-Paper-Scissors-SHOOT\Rock-Paper-Scissors-SHOOT\Rock-Paper-Scissors-SHOOT\obj\Debug\netcoreapp3.1\Rock-Paper-Scissors-SHOOT.genruntimeconfig.cache

@@ -1,0 +1,17 @@
+D:\CodingProjects\AllCodingProjects\AllCodingProjects\Digital-Clock\Digital Clock\Digital Clock\bin\Debug\netcoreapp3.1\Digital Clock.exe
+D:\CodingProjects\AllCodingProjects\AllCodingProjects\Digital-Clock\Digital Clock\Digital Clock\bin\Debug\netcoreapp3.1\Digital Clock.deps.json
+D:\CodingProjects\AllCodingProjects\AllCodingProjects\Digital-Clock\Digital Clock\Digital Clock\bin\Debug\netcoreapp3.1\Digital Clock.runtimeconfig.json
+D:\CodingProjects\AllCodingProjects\AllCodingProjects\Digital-Clock\Digital Clock\Digital Clock\bin\Debug\netcoreapp3.1\Digital Clock.runtimeconfig.dev.json
+D:\CodingProjects\AllCodingProjects\AllCodingProjects\Digital-Clock\Digital Clock\Digital Clock\bin\Debug\netcoreapp3.1\Digital Clock.dll
+D:\CodingProjects\AllCodingProjects\AllCodingProjects\Digital-Clock\Digital Clock\Digital Clock\bin\Debug\netcoreapp3.1\Digital Clock.pdb
+D:\CodingProjects\AllCodingProjects\AllCodingProjects\Digital-Clock\Digital Clock\Digital Clock\obj\Debug\netcoreapp3.1\Digital Clock.csproj.AssemblyReference.cache
+D:\CodingProjects\AllCodingProjects\AllCodingProjects\Digital-Clock\Digital Clock\Digital Clock\obj\Debug\netcoreapp3.1\Digital_Clock.Form1.resources
+D:\CodingProjects\AllCodingProjects\AllCodingProjects\Digital-Clock\Digital Clock\Digital Clock\obj\Debug\netcoreapp3.1\Digital Clock.csproj.GenerateResource.cache
+D:\CodingProjects\AllCodingProjects\AllCodingProjects\Digital-Clock\Digital Clock\Digital Clock\obj\Debug\netcoreapp3.1\Digital Clock.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodingProjects\AllCodingProjects\AllCodingProjects\Digital-Clock\Digital Clock\Digital Clock\obj\Debug\netcoreapp3.1\Digital Clock.AssemblyInfoInputs.cache
+D:\CodingProjects\AllCodingProjects\AllCodingProjects\Digital-Clock\Digital Clock\Digital Clock\obj\Debug\netcoreapp3.1\Digital Clock.AssemblyInfo.cs
+D:\CodingProjects\AllCodingProjects\AllCodingProjects\Digital-Clock\Digital Clock\Digital Clock\obj\Debug\netcoreapp3.1\Digital Clock.csproj.CoreCompileInputs.cache
+D:\CodingProjects\AllCodingProjects\AllCodingProjects\Digital-Clock\Digital Clock\Digital Clock\obj\Debug\netcoreapp3.1\Digital Clock.dll
+D:\CodingProjects\AllCodingProjects\AllCodingProjects\Digital-Clock\Digital Clock\Digital Clock\obj\Debug\netcoreapp3.1\Digital Clock.pdb
+D:\CodingProjects\AllCodingProjects\AllCodingProjects\Digital-Clock\Digital Clock\Digital Clock\obj\Debug\netcoreapp3.1\Digital Clock.genruntimeconfig.cache
+D:\CodingProjects\AllCodingProjects\AllCodingProjects\Digital-Clock\Digital Clock\Digital Clock\obj\Debug\netcoreapp3.1\Digital_Clock.Properties.Resources.resources

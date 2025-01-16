@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - EnemyImpRed
+  - HealController
+  - XPBar
+  - EnemyGoblin
+  - EnemyNightBorne
+  - EnemySkeleton
+  - EnemyGolem
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Barriers
+  - Player
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: MainGround
+    uniqueID: 253231159
+    locked: 0
+  - name: PathWay
+    uniqueID: 3460363771
+    locked: 0
+  - name: EnemySkin
+    uniqueID: 3820290207
+    locked: 0
+  - name: PlayerSkin
+    uniqueID: 186618487
+    locked: 0
+  - name: PlayerArmour
+    uniqueID: 3545859945
+    locked: 0
+  - name: PlayerWeapon
+    uniqueID: 199170903
+    locked: 0
+  - name: GroundBarriers
+    uniqueID: 2569449927
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0

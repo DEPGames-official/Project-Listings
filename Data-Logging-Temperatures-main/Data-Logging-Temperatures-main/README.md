@@ -1,0 +1,2 @@
+# Data Logging Temperatures
+ A data logger records the temperature on the roof twice a day, at midday and midnight. Input and store the temperatures recorded for the month. You must store the temperatures in 2 1 dimensional arrays, one for the midday and one for the midnight temps. All the temperatures must be validated on entry and any invalid temperatures rejected.You must decide your own validation rules. You may assume that there are 30 days in a month.
